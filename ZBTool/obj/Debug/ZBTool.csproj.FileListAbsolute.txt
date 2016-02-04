@@ -1,0 +1,9 @@
+D:\C#\ZBTool\ZBTool\ZBTool\bin\Debug\ZBTool.exe.config
+D:\C#\ZBTool\ZBTool\ZBTool\bin\Debug\ZBTool.exe
+D:\C#\ZBTool\ZBTool\ZBTool\bin\Debug\ZBTool.pdb
+D:\C#\ZBTool\ZBTool\ZBTool\obj\Debug\ZBTool.csprojResolveAssemblyReference.cache
+D:\C#\ZBTool\ZBTool\ZBTool\obj\Debug\ZBTool.Console.resources
+D:\C#\ZBTool\ZBTool\ZBTool\obj\Debug\ZBTool.Properties.Resources.resources
+D:\C#\ZBTool\ZBTool\ZBTool\obj\Debug\ZBTool.csproj.GenerateResource.Cache
+D:\C#\ZBTool\ZBTool\ZBTool\obj\Debug\ZBTool.exe
+D:\C#\ZBTool\ZBTool\ZBTool\obj\Debug\ZBTool.pdb
